@@ -1,2 +1,2 @@
-# gretnagreen-template-copy
-A copy of the mockup from Gretna Green Wordpress Theme
+# Gretna Green Markup
+A markup and styles with HTML and CSS for a template found in Pinterest. 
